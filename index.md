@@ -3,7 +3,7 @@
 **Dernière mise à jour : 10/05/2026** · Version 1.5.65
 
 > 📄 La version complète et détaillée (CGU + Politique RGPD + Avertissement médical, 17 sections) est disponible à l'adresse :
-> **<https://olivieronno-svg.github.io/bilanambu/privacy.html>**
+> **<https://olivieronno-svg.github.io/vital-ia/privacy.html>**
 >
 > Cette page maintient une version courte pour les anciens liens.
 
@@ -92,4 +92,4 @@ Pour toute question relative à cette politique :
 
 ---
 
-📄 Pour la version complète (CGU + Politique + 17 sections) : <https://olivieronno-svg.github.io/bilanambu/privacy.html>
+📄 Pour la version complète (CGU + Politique + 17 sections) : <https://olivieronno-svg.github.io/vital-ia/privacy.html>
